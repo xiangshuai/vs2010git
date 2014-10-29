@@ -1,6 +1,6 @@
-/Release/
-/Debug/
-/ipch/
+Release/
+Debug/
+ipch/
 *.ncb
 *.plg
 *.opt
